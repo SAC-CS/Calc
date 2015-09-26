@@ -50,3 +50,5 @@ public class Calculator
 		}
 	}
 }
+
+//Hi Matthew...please look into .equals()
